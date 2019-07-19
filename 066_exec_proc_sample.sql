@@ -2,7 +2,7 @@ CREATE OR REPLACE PROCEDURE procPrintHelloWorld
 IS
 BEGIN
   
-  DBMS_OUTPUT1.PUT_LINE('Hello World!');
+  DBMS_OUTPUT.PUT_LINE('Hello World!');
 
 END;
 /
