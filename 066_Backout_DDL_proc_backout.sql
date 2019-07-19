@@ -1,1 +1,1 @@
-DROP PROCEDURE hr.remove_emp;
+DROP PROCEDURE procPrintHelloWorld;
